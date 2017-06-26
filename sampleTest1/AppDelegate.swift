@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  sampleTest1
 //
-//  Created by imaravesh on 6/20/17.
-//  Copyright © 2017 imaravesh. All rights reserved.
+//  Created by Azadeh Rassadi on 6/20/17.
+//  Copyright © 2017 Azadeh Rassadi. All rights reserved.
 //
 
 import UIKit
