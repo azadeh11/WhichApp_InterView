@@ -7,6 +7,7 @@ Cheers...:)
 How to use:
 
 1: first intsall related dependency using cocoapods by following command:
-  pos install
+
+pod install
 
 2: run and enjoy!
